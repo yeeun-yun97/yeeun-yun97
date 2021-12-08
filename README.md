@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051522.png?style=flat-square&logo=Kotlin&logoColor=black"/> 
+<img src="https://cdn-icons-png.flaticon.com/128/4126/4126205.png?style=flat-square&logo=Kotlin&logoColor=black"/> 
 
 
 
