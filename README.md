@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=black"/>
 
 
 
