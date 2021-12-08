@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/> 
 <img src="https://cdn-icons-png.flaticon.com/128/4126/4126205.png?style=flat-square&logo=Kotlin&logoColor=black"/> 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun-yun97&show_icons=true&theme=radical)
 
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyn9704)](https://solved.ac/yyn9704)
