@@ -2,7 +2,7 @@
 # Tech Stack
 ### 😄 주로 사용하는..
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/>
-### 사용해 본 적 있는..
+### 🤔 사용해 본 적 있는..
 Spring boot, python, C, Jenkins, bash, Salesforce(apex), JavaScript, php, HTTP
 
 # About Me
