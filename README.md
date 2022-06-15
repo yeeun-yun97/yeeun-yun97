@@ -14,7 +14,7 @@ Spring boot, python, C, Jenkins, bash, Salesforce(apex), JavaScript, php, HTTP
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun-yun97&show_icons=true&theme=radical)
 
 # contact
-<a href="mailto:yyn9704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
+<a href="mailto:yeeunyun97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
 
 <br><br>
 <br><br>
