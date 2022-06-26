@@ -20,9 +20,9 @@ Spring boot, python, C, Jenkins, bash, Salesforce(apex), JavaScript, php, HTTP
 <br><br>
 <br>
 
-<!--
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyn9704)](https://solved.ac/yyn9704)
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
--->
+<!-- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ -->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
