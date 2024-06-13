@@ -12,11 +12,7 @@
 # contact
 <a href="mailto:yeeunyun97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
 
-## portfolio
-<a href="https://www.notion.so/yyn9704kr/Yeeun-Yun-ecfe7d6f86f24338a0eb1101517867b2?v=5e056f9511e04c109012af1b12282d27" target="blank">https://www.notion.so/yyn9704kr/Yeeun-Yun-ecfe7d6f86f24338a0eb1101517867b2?v=5e056f9511e04c109012af1b12282d27</a>
-
 <br><br><br>
-
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyn9704)](https://solved.ac/yyn9704)
 <!-- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
