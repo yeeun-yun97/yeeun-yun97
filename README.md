@@ -6,8 +6,8 @@
 Spring boot, python, C, Jenkins, bash, Salesforce(apex), JavaScript, php, HTTP
 
 # About Me
-🧑‍🎓 명지대학교 융합소프트웨어 복수전공 졸업(~2022.02)    
-🏢 블루필 (2022.08~2024.05)
+🧑‍🎓 명지대학교 융합소프트웨어 복수전공 졸업(-2022.02)    
+🏢 블루필 (2022.08 - 2024.05)
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun-yun97&show_icons=true&theme=radical)
