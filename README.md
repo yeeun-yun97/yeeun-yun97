@@ -8,7 +8,7 @@
 🏢 아토머스 안드로이드 개발자 (2024.08 - 재직중)
 
 # contact
-<a href="mailto:yyn9704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
+<a href="mailto:yeeunyun97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
 
 <br><br><br>
 
