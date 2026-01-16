@@ -5,7 +5,7 @@
 # About Me
 🧑‍🎓 명지대학교 융합소프트웨어 복수전공 졸업(-2022.02)    
 🏢 블루필 안드로이드 개발자 (2022.08 - 2024.05)    
-🏢 아토머스 안드로이드 개발자 (2024.08 - 재직중)
+🏢 아토머스 안드로이드 개발자 (2024.08 - 2025.08)
 
 # contact
 <a href="mailto:yeeunyun97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-BB001B?style=flat-square&logo=GMail&logoColor=white"/></a>
